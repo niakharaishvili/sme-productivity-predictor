@@ -108,7 +108,6 @@ The app has three tabs:
 - **Explore** : interactive charts of adoption rates by productivity class
 - **About** : project background and data source
 
-Deploy it free on [Streamlit Community Cloud](https://streamlit.io/cloud) by connecting this GitHub repo : it gives you a public URL you can put on your CV.
 
 ---
 
